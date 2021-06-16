@@ -1,0 +1,52 @@
+[
+    {
+        "id" : 1,
+        "istilah" : "anoksemia",
+        "keterangan" : "Penyakit yang disebabkan oleh oksigen di dalam darah"
+    },
+    {
+        "id" : 2,
+        "istilah" : "askariasis",
+        "keterangan" : "Penyakit yang disebabkan oleh cacing yang menyerang pencernaan ikan"
+    },
+    {
+        "id" : 3,
+        "istilah" : "bakteriolotok",
+        "keterangan" : "Sifat perusakan sel bakteri secara melisis"
+    },
+    {
+        "id" : 4,
+        "istilah" : "dropsi",
+        "keterangan" : "Pembengkakan organ bagian dalam yang disebabkan oleh penyakit bakteri"
+    },
+    {
+        "id" : 5,
+        "istilah" : "ICH",
+        "keterangan" : "Penyakit yang disebabkan oleh parasit dari jenis protozoa ilchthyophitrius multifilia"
+    },
+    {
+        "id" : 6,
+        "istilah" : "kait seks gen",
+        "keterangan" : "Gen yang terletak pada suatu kromoson seks"
+    },
+    {
+        "id" : 7,
+        "istilah" : "operkulum",
+        "keterangan" : "Tutup insang"
+    },
+    {
+        "id" : 8,
+        "istilah" : "penyakit gelembung",
+        "keterangan" : "Penyakit yang terjadi karena kejenuhan gas atmosfir dalam air (terutama nitrogen) dan sering menyerang ikan yang hidup di daerha buangan industri"
+    },
+    {
+        "id" : 9,
+        "istilah" : "eksoptalmia",
+        "keterangan" : "Bola mata menonjol keluar dari tulang kepala akibat penggumpalan cairan atau gas di bola mata bagian belakang"
+    },
+    {
+        "id" : 10,
+        "istilah" : "muton",
+        "keterangan" : "Satuan terkecil dari mutasi genetik"
+    }
+]
